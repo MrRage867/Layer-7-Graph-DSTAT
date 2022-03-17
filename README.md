@@ -1,4 +1,4 @@
 # Layer-7-Graph-DSTAT
-A professional layer 7 dstat graph to see how many request ddosers hit on your services. (Reupload)
+A professional layer 7 graph that uses nginx status to see how many requests is going through the nginx webserver each second.
 
-> This Layer 7 graph was leaked a very long time ago and was hard to find, Recently founded on some random forum while looking for it. vshield.pro been using it and you check it out as a preview on what it looks like. Do not ask me to set it up for you, Answer is no!
+> This is a layer 7 graph that was leaked a very long time ago and the uploader original uploader has disappeard of github so I have reuploaded it. vsheild.pro has been using it and you can check it out as a preveiw on what it looks like. Do not ask me to set it up for you, The answer is no!
